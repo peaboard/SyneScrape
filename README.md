@@ -1,5 +1,5 @@
 # SyneScrape
-Directly Visualize any Web Page through Combination of Synthetic Visualization Abilities of Synesketch and Web Crawler Scrapy
+Directly Visualize any Web Page through Combination of Synthetic Visualization Abilities of [Synesketch](http://krcadinac.com/synesketch/) and Web Crawler [Scrapy](https://scrapy.org/)
 
 Install Scrapy Dependencies Using 
 
